@@ -1,0 +1,11 @@
+gita-mental-health-app/
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── backend/
+    ├── app.py
+    └── templates/
+        └── index.html
+
+
